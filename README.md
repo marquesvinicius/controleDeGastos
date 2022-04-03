@@ -1,2 +1,2 @@
 # controleDeGastos
-Aplicativo desenvolvido através do NetBeans IDE, para Controle de Gastos
+Aplicativo desenvolvido utilizando a linguagem Java e a NetBeans IDE para a criação das janelas, além de um arquivo txt para o salvamento dos dados da aplicação. 
